@@ -1,6 +1,7 @@
 # tableau-challenge
 Data Analytics Bootcamp: Module 18 Challenge
 
+
 # Project Description
 Congratulations on your new job! As the new lead analyst for the New York Citi Bike program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.  Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike webpage.  However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
@@ -17,7 +18,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
     * Ensure your presentation is professional, logical, and visually appealing.
 
 # Implementation
-This report analyzes 2018 data for Citibike usage in Jersey City. Four months of trip data was combined and cleaned in a Jupyter Notebook file. The final dataset includes the months of January, April, July, and October, thereby representing four seasons (winter, spring, summer, fall). The final report, visualized through a Tableau story, includes dashboards and analysis of bike usage, stations and routes, and geography (map).
+This report analyzes 2018 data for Citibike usage in Jersey City. Four months of trip data was combined and cleaned in a Jupyter Notebook file. The final dataset includes the months of January, April, July, and October, thereby representing four seasons (winter, spring, summer, fall). The final report, visualized through a Tableau story, includes dashboards and analysis of bike usage, stations and routes, and geography (map). Link to final report: https://public.tableau.com/app/profile/rachel.sanchez4255/viz/Citibike_challenge_16913565823200/CitibikeJCStory. 
 
 # References
 This assignment was completed referencing class activities. Additionally, the following videos were referenced: 
